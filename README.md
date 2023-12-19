@@ -5,7 +5,7 @@
 [![Untitled.png](https://i.postimg.cc/YS2bFQ7s/Untitled.png)](https://postimg.cc/VJTqQrdq)
 
 ## DATASET USED -:
-<a href="/Vrinda Store Dataset">Vrinda Store Dataset</a>
+<a href="/Vrinda%20Store%20Dataset.xlsx">Vrinda Store Dataset</a>
 
 ## QUESTIONS -:
 1. Compare the sales and orders using single chart.</br>
