@@ -2,6 +2,7 @@
 
 ***The Vrinda Store Data Analysis*** project aims to provide valuable insights into the store's performance, sales trends, and customer demographics. By utilizing Excel's data analysis and visualization capabilities, this project transforms raw data into meaningful information. The dataset consists of various columns, including order details, customer information, sales figures, and product-related information.
 
+## DASHBOARD -:
 [![Untitled.png](https://i.postimg.cc/YS2bFQ7s/Untitled.png)](https://postimg.cc/VJTqQrdq)
 
 ## DATASET USED -:
